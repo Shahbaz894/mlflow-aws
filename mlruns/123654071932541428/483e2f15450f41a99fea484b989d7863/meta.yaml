@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/123654071932541428/483e2f15450f41a99fea484b989d7863/artifacts
+deleted_time: 1724332697474
+end_time: 1724332541585
+entry_point_name: ''
+experiment_id: '123654071932541428'
+lifecycle_stage: deleted
+run_id: 483e2f15450f41a99fea484b989d7863
+run_name: dashing-rat-69
+run_uuid: 483e2f15450f41a99fea484b989d7863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724332537706
+status: 4
+tags: []
+user_id: shahb

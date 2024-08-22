@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/625151924862826569/fec007cc589149619e0c8182f1553713/artifacts
+end_time: 1724332339310
+entry_point_name: ''
+experiment_id: '625151924862826569'
+lifecycle_stage: active
+run_id: fec007cc589149619e0c8182f1553713
+run_name: fearless-crow-532
+run_uuid: fec007cc589149619e0c8182f1553713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724332333493
+status: 4
+tags: []
+user_id: shahb

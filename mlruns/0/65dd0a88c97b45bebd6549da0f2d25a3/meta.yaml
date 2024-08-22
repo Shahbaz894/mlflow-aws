@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65dd0a88c97b45bebd6549da0f2d25a3/artifacts
+end_time: 1722515611936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65dd0a88c97b45bebd6549da0f2d25a3
+run_name: gregarious-koi-428
+run_uuid: 65dd0a88c97b45bebd6549da0f2d25a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722515611729
+status: 3
+tags: []
+user_id: shahb

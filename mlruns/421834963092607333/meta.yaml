@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/421834963092607333
+creation_time: 1724333216846
+experiment_id: '421834963092607333'
+last_update_time: 1724333216846
+lifecycle_stage: active
+name: iris-autolog-mlflow

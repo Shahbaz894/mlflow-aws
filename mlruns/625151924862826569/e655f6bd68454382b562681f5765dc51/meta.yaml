@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/625151924862826569/e655f6bd68454382b562681f5765dc51/artifacts
+end_time: 1722774212689
+entry_point_name: ''
+experiment_id: '625151924862826569'
+lifecycle_stage: active
+run_id: e655f6bd68454382b562681f5765dc51
+run_name: omniscient-robin-890
+run_uuid: e655f6bd68454382b562681f5765dc51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722774212565
+status: 3
+tags: []
+user_id: shahb

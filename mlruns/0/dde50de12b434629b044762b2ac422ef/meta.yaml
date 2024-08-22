@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/dde50de12b434629b044762b2ac422ef/artifacts
+end_time: 1722515269096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dde50de12b434629b044762b2ac422ef
+run_name: unequaled-pug-618
+run_uuid: dde50de12b434629b044762b2ac422ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722515268889
+status: 4
+tags: []
+user_id: shahb

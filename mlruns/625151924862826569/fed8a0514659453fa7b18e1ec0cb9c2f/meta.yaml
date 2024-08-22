@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/625151924862826569/fed8a0514659453fa7b18e1ec0cb9c2f/artifacts
+end_time: 1724331937123
+entry_point_name: ''
+experiment_id: '625151924862826569'
+lifecycle_stage: active
+run_id: fed8a0514659453fa7b18e1ec0cb9c2f
+run_name: wise-colt-822
+run_uuid: fed8a0514659453fa7b18e1ec0cb9c2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724331936047
+status: 4
+tags: []
+user_id: shahb

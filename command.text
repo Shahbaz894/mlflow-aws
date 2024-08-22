@@ -1,0 +1,26 @@
+aws connect with mlflow these are the command first we set the aws account 
+set AWS 
+make IAM user and give it a name now tell which permission is granted to this user for this purpose make new policy and we attach multiple things thatswhy we give adminstrative permission then click on next and create user .Now copy the access key and sucrity key from sucrity credentials .for access key we make new access key so click on create access key. all communication through command line interface so slect it and create it and copy and save .
+make a s3 bucket give name and create
+make a EC2 instance .lanunch a new instance by click on it and the slect the operating system i slect ubuntu bcz it safe option .slect the T2micro it is free and next this is key pair(login ) now create it and write name and create nothing any thing other select it creatre a file and save it it used for remote login. In network setting allow SSH ,HTTPS,HTTP trafic then launch the instance now select this instance and connect it
+all cammand are given below 
+sudo apt update
+sudo apt install python3-pip
+sudo apt install pipx
+sudo apt ensurepath
+pipx install pipenv
+export PATH=$PATH:/home/ubuntu/.local/bin
+echo "export PATH=$PATH:/home/ubuntu/.local/bin" >> ~/.bashrc
+source ~/.bashrc
+mkdir mlflow
+cd mlflow
+pipenv shell
+pipenv install setuptools
+pipenv install mlflow
+pipenv install awscli
+pipenv install boto3
+aws configure
+mlflow server -h 0.0.0.0 --default-artifact-root s3://mlflow-demo
+export MLFOW_TRACKING_URI=http://Public-IPv4-DNS>:5000 this id copy from aws and add :5000 on chrome  like below
+tracking Url of Mlflow server 
+http://ec2-3-25-219-64.ap-southeast-2.compute.amazonaws.com:5000/

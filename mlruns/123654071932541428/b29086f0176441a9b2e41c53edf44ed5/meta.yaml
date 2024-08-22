@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/123654071932541428/b29086f0176441a9b2e41c53edf44ed5/artifacts
+end_time: 1724332663997
+entry_point_name: ''
+experiment_id: '123654071932541428'
+lifecycle_stage: active
+run_id: b29086f0176441a9b2e41c53edf44ed5
+run_name: able-mink-696
+run_uuid: b29086f0176441a9b2e41c53edf44ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724332660117
+status: 3
+tags: []
+user_id: shahb
