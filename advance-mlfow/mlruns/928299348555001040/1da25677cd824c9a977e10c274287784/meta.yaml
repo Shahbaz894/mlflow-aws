@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/mlfow-demo/advance-mlfow/mlruns/928299348555001040/1da25677cd824c9a977e10c274287784/artifacts
+end_time: 1724501519583
+entry_point_name: ''
+experiment_id: '928299348555001040'
+lifecycle_stage: active
+run_id: 1da25677cd824c9a977e10c274287784
+run_name: funny-bee-253
+run_uuid: 1da25677cd824c9a977e10c274287784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724501379406
+status: 3
+tags: []
+user_id: shahb
